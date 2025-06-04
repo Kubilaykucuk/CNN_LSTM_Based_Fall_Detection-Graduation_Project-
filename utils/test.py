@@ -59,7 +59,7 @@ model.to(DEVICE)
 model.eval()
 
 # === TCP Client Setup ===
-SERVER_IP = '192.168.1.29'
+SERVER_IP = 'IP'
 SERVER_PORT = 8000
 tcp_client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 tcp_client.connect((SERVER_IP, SERVER_PORT))
