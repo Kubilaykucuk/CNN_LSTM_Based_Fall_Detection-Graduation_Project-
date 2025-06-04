@@ -28,7 +28,7 @@ This project is a real-time radar-based posture tracking and fall detection syst
 
 You can view our official graduation poster here:
 
-📌 [Download Poster (PDF)](assets/poster.pdf)
+<img src="assets/poster.png" alt="Radar UI" width="700">
 
 This poster was presented during the senior project exhibition and provides a visual summary of the project goals, methods, and results.
 
